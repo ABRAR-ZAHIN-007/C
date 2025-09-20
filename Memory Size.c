@@ -1,0 +1,4 @@
+int	2 or 4 bytes
+float	4 bytes
+double	8 bytes
+char	1 byte
